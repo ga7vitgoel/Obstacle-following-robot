@@ -11,7 +11,7 @@ About the hardware:
 Note:
 If you wish to implement the code in this repository, then you may have to tune the IR sensors and change alter the pins for the directional output of the robot.
 
--Requirement for Obstacle Avoidance and edge detection :
+Requirement for Obstacle Avoidance and edge detection :
 
  x1 Arduino Uno
  x2 Infrared Sensor (x3 for more accurate signals of edges/objects in the robot's path)
